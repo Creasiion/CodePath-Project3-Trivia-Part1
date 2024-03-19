@@ -27,6 +27,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 In the future I will add the following:
+- Fix text not fitting within boxes (adding adjustable fonts)
 - Adjust the question display amount so users can see how many they have left
 - Add in background color adjust so users can know what questions they answered right or wrong (partially implemented
 
